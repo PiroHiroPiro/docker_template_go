@@ -1,4 +1,4 @@
-# go Docker template
+# Go Docker template
 
 This is a Docker template that provides an environment with Go.
 
