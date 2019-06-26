@@ -28,7 +28,6 @@ $ cd docker_template_go
 Build images:
 
 ```console
-$ docker network create docker_template_network
 $ docker-compose build
 ```
 
