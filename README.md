@@ -31,6 +31,12 @@ Build images:
 $ docker-compose build
 ```
 
+Initilaize Go module:
+```console
+$ cd source
+$ go mod init
+```
+
 ## Licence
 
 This software is released under the MIT License, see [LICENSE](https://github.com/PiroHiroPiro/docker_template_go/blob/master/LICENSE).
